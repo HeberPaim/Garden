@@ -12,7 +12,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "tinylytics",
+      siteId: "b4kzyzWnHVTUPRL4bFrt",
     },
     locale: "en-US",
     baseUrl: "hereberz.com",
